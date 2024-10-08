@@ -1,1 +1,3 @@
-print('Students name','age','address')
+print('Students name: siddhesh')
+print('age : 22')
+print('address: sakinaka')
